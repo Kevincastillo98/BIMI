@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <!-- Fondo cuadrado -->
+  <rect width="512" height="512" fill="#005f99" />
+  
+  <!-- Símbolo de avión -->
+  <path d="M256 32l48 176h112l-96 80 48 176-96-128-96 128 48-176-96-80h112L256 32z" fill="#ffffff" />
+</svg>
